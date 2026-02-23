@@ -1,1 +1,1 @@
-Console.Write (1/1)
+Console.Write (1/1);
